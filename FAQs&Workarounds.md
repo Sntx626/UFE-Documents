@@ -1,4 +1,5 @@
-# FAQ & Ws (Frequently Asked Questions & Workarounds) - ein Port aus dem Discord channel #faqs-workarounds ursprünglich durch Juno_Narrock
+# FAQ & Workarounds - ein Port aus dem Discord channel #faqs-workarounds
+###### Ursprünglich erstellt durch Juno_Narrock, überarbeitet durch Sntx626 (Leo)
 Dies hier ist unsere Zusammenfassung für alle häufig gestellten Fragen und Bugs. Solltet ihr hier keine Antwort finden, erstellt gerne einen Beitrag in dieser Sektion.
 
 ## Fragen
